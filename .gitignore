@@ -1,4 +1,4 @@
-# CAP incident-management
+# CAP BuildCapApp
 _out
 *.db
 *.sqlite
@@ -32,4 +32,3 @@ mta_archives/
 
 # @cap-js/cds-typer
 @cds-models
-node_modules
